@@ -1,0 +1,11 @@
+.fa-lg {
+    color: var(--font-color);
+
+    transition: transform .2s ease-in-out;
+}
+
+.fa-lg:hover {
+    color: rgb(45, 45, 130);
+
+    transform: scale(1.25);
+}

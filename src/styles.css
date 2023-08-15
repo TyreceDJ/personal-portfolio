@@ -1,0 +1,73 @@
+:root {
+    --main-color: #FFF0E5;
+    --font-color: #10162F;
+    --border-shadow: -5px 5px;
+}
+
+body {
+    height: 100%;
+    width: 100%;
+
+    /* Prevents scrolling */
+    overflow: hidden;
+    position: fixed;
+
+    background-color: var(--main-color);
+
+    font-family: Poppins, sans-serif;
+    color: var(--font-color);
+}
+
+body>*:not(#landing), .top h1, #image {
+    /* animation: contentIn 4s; */
+}
+
+.heading {    
+    /* Width of the box behind the header */
+    width: 100%;
+
+    /* Custom 3D box heading with dynamic sizing */
+    font-size: min(4em, 7vw);
+    font-weight: 800;
+    color: transparent;
+    text-shadow: 3px -3px 0px var(--font-color);
+
+    /* Creates the shadow outline */
+    -webkit-text-stroke: 1px var(--font-color);
+
+    /* Positioning on the page */
+    margin: 20px 10% 20px 10%;
+}
+
+.grid {
+    /* Grid dimensions */
+    height: 75vh;
+    width: 80vw;
+    margin: auto;
+
+    /* Creates grid layout */
+    display: grid;
+    grid-template-rows: repeat(4, 1fr);
+    grid-template-columns: repeat(8, 1fr);
+    row-gap: 2vw;
+    column-gap: 2vw;
+}
+
+.grid:not(#landing) {
+    margin-top: 0;
+}
+
+/* Fades in box content */
+@keyframes contentIn {
+    from {
+        opacity: 0;
+    }
+
+    70% {
+        opacity: 0;
+    }
+
+    to {
+        opacity: 1;
+    }
+}
