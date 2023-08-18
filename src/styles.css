@@ -1,7 +1,13 @@
 :root {
     --main-color: #FFF0E5;
     --font-color: #10162F;
-    --border-shadow: -5px 5px;
+
+    --light-blue-card: #78c0ff;
+    --dark-blue-card: #10162F;
+    --orange-card: #ffa14f;
+    --red-card: #ff3232;
+    --pink-card: #ff46fc;
+    --dark-green-card: #008b05;
 }
 
 body {
@@ -16,6 +22,8 @@ body {
 
     font-family: Poppins, sans-serif;
     color: var(--font-color);
+
+    overflow-x: hidden;
 }
 
 body>*:not(#landing), .top h1, #image {
@@ -48,6 +56,20 @@ body>*:not(#landing), .top h1, #image {
     /* Creates grid layout */
     display: grid;
     grid-template-rows: repeat(4, 1fr);
+    grid-template-columns: repeat(8, 1fr);
+    row-gap: 2vw;
+    column-gap: 2vw;
+}
+
+.grid2 {
+    /* Grid dimensions */
+    height: 200vh;
+    width: 80vw;
+    margin: auto;
+
+    /* Creates grid layout */
+    display: grid;
+    grid-template-rows: repeat(8, 1fr);
     grid-template-columns: repeat(8, 1fr);
     row-gap: 2vw;
     column-gap: 2vw;

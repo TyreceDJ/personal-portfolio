@@ -8,7 +8,7 @@
     border: 2px solid var(--font-color);
 
     /* Create staggered border */
-    box-shadow: var(--border-shadow) 0px -1.5px var(--main-color), var(--border-shadow) var(--font-color);
+    box-shadow: -5px 5px 0px -1.5px var(--main-color), -5px 5px var(--font-color);
     
     transition: transform 200ms ease-in-out;
 }
@@ -55,7 +55,7 @@
     transform: scale(1.05);
 
     /* Shades in box shadow */
-    box-shadow: var(--border-shadow) var(--font-color);
+    box-shadow: -5px 5px var(--font-color);
 }
 
 .top {

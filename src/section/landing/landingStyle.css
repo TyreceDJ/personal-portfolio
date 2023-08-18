@@ -26,19 +26,19 @@
 
 /* Set stripe colors */
 #image-border .top {
-    background-color: #78c0ff;
+    background-color: var(--light-blue-card);
 }
 
 #about .top {
-    background-color: #10162F;
+    background-color: var(--dark-blue-card);
 }
 
 #mission .top {
-    background-color: #ffa14f;
+    background-color: var(--orange-card);
 }
 
 #skill .top {
-    background-color: #ff3232;
+    background-color: var(--red-card);
 }
 
 /* Set box positions and dimensions */

@@ -27,27 +27,27 @@
 }
 
 #vote .top {
-    background-color: #008b05;
+    background-color: var(--dark-green-card);
 }
 
 #cache .top {
-    background-color: #78c0ff;
+    background-color: var(--light-blue-card);
 }
 
 #cmd .top {
-    background-color: #10162F;
+    background-color: var(--dark-blue-card);
 }
 
 #proxy .top {
-    background-color: #ffa14f;
+    background-color: var(--orange-card);
 }
 
 #flag .top {
-    background-color: #ff3232;
+    background-color: var(--red-card);
 }
 
 #web .top {
-    background-color: rgb(255, 70, 252);
+    background-color: var(--pink-card);
 }
 
 @media only screen and (max-width: 1150px) {
