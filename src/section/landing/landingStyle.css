@@ -1,29 +1,3 @@
-#landing {
-    /* animation: transitionIn 3s; */
-}
-
-/* Page load tranition */
-@keyframes transitionIn {
-    from {
-        height: 20vh;
-        width: 25vw;
-        transform: translateY(300%);
-        margin: 20vh auto 0px auto;
-    }
-
-    70% {
-        height: 20vh;
-        width: 25vw;
-        margin: 20vh auto 0px auto;
-    }
-
-    to {
-        height: 75vh;
-        width: 80vw;
-        margin: 0px auto auto auto;
-    }
-}
-
 /* Set stripe colors */
 #image-border .top {
     background-color: var(--light-blue-card);

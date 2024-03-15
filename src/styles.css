@@ -1,7 +1,6 @@
 :root {
     --main-color: #FFF0E5;
     --font-color: #10162F;
-
     --light-blue-card: #78c0ff;
     --dark-blue-card: #10162F;
     --orange-card: #ffa14f;
@@ -14,20 +13,12 @@ body {
     height: 100%;
     width: 100%;
 
-    /* Prevents scrolling */
-    overflow: hidden;
-    position: fixed;
-
     background-color: var(--main-color);
 
     font-family: Poppins, sans-serif;
     color: var(--font-color);
 
     overflow-x: hidden;
-}
-
-body>*:not(#landing), .top h1, #image {
-    /* animation: contentIn 4s; */
 }
 
 .heading {    
@@ -77,19 +68,4 @@ body>*:not(#landing), .top h1, #image {
 
 .grid:not(#landing) {
     margin-top: 0;
-}
-
-/* Fades in box content */
-@keyframes contentIn {
-    from {
-        opacity: 0;
-    }
-
-    70% {
-        opacity: 0;
-    }
-
-    to {
-        opacity: 1;
-    }
 }

@@ -1,6 +1,6 @@
 import { FunctionComponent, ReactElement } from 'react';
-import './card.css';
 import { Icon } from '../icon/icon';
+import './card.css';
 
 export interface CardProps {
     cardId?: string,
