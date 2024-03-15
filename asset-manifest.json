@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/personal/static/css/main.65792c5b.css",
-    "main.js": "/personal/static/js/main.7600e20e.js",
+    "main.css": "/personal/static/css/main.59f607e5.css",
+    "main.js": "/personal/static/js/main.1b79e320.js",
     "static/media/Tyrece.jpg": "/personal/static/media/Tyrece.7d99059067d8f9bf0a79.jpg",
     "index.html": "/personal/index.html",
-    "main.65792c5b.css.map": "/personal/static/css/main.65792c5b.css.map",
-    "main.7600e20e.js.map": "/personal/static/js/main.7600e20e.js.map"
+    "main.59f607e5.css.map": "/personal/static/css/main.59f607e5.css.map",
+    "main.1b79e320.js.map": "/personal/static/js/main.1b79e320.js.map"
   },
   "entrypoints": [
-    "static/css/main.65792c5b.css",
-    "static/js/main.7600e20e.js"
+    "static/css/main.59f607e5.css",
+    "static/js/main.1b79e320.js"
   ]
 }
