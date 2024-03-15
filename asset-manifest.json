@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/PersonalWebsite/static/css/main.1203f80c.css",
-    "main.js": "/PersonalWebsite/static/js/main.1b79e320.js",
-    "static/media/Tyrece.jpg": "/PersonalWebsite/static/media/Tyrece.7d99059067d8f9bf0a79.jpg",
-    "index.html": "/PersonalWebsite/index.html",
-    "main.1203f80c.css.map": "/PersonalWebsite/static/css/main.1203f80c.css.map",
-    "main.1b79e320.js.map": "/PersonalWebsite/static/js/main.1b79e320.js.map"
+    "main.css": "/personal-portfolio/static/css/main.6d4f0bc8.css",
+    "main.js": "/personal-portfolio/static/js/main.1b79e320.js",
+    "static/media/Tyrece.jpg": "/personal-portfolio/static/media/Tyrece.7d99059067d8f9bf0a79.jpg",
+    "index.html": "/personal-portfolio/index.html",
+    "main.6d4f0bc8.css.map": "/personal-portfolio/static/css/main.6d4f0bc8.css.map",
+    "main.1b79e320.js.map": "/personal-portfolio/static/js/main.1b79e320.js.map"
   },
   "entrypoints": [
-    "static/css/main.1203f80c.css",
+    "static/css/main.6d4f0bc8.css",
     "static/js/main.1b79e320.js"
   ]
 }
