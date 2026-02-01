@@ -1,14 +1,23 @@
 {
   "files": {
-    "main.css": "/personal-portfolio/static/css/main.6d4f0bc8.css",
-    "main.js": "/personal-portfolio/static/js/main.1b79e320.js",
+    "main.css": "/personal-portfolio/static/css/main.9a14915b.css",
+    "main.js": "/personal-portfolio/static/js/main.0e75f27a.js",
+    "static/media/unversity-village.jpg": "/personal-portfolio/static/media/unversity-village.6835751d246d9177af75.jpg",
     "static/media/Tyrece.jpg": "/personal-portfolio/static/media/Tyrece.7d99059067d8f9bf0a79.jpg",
+    "static/media/thanks-giving.jpg": "/personal-portfolio/static/media/thanks-giving.8761f7baf5657d563bb1.jpg",
+    "static/media/ballard-fish-market.jpg": "/personal-portfolio/static/media/ballard-fish-market.488e97b242f5f8f2c3ff.jpg",
+    "static/media/green-lake.jpg": "/personal-portfolio/static/media/green-lake.bca6b45a14d93f59c576.jpg",
+    "static/media/vizcaya.jpg": "/personal-portfolio/static/media/vizcaya.666adc4ee33a701fff2d.jpg",
+    "static/media/tyrece-collage.jpg": "/personal-portfolio/static/media/tyrece-collage.cc56f689cafc94030780.jpg",
+    "static/media/asking-out.jpg": "/personal-portfolio/static/media/asking-out.00df6ec7714503444897.jpg",
+    "static/media/beach-day.jpg": "/personal-portfolio/static/media/beach-day.35a5ab03359acf700818.jpg",
+    "static/media/tumi-collage.jpg": "/personal-portfolio/static/media/tumi-collage.576d3018465e77d7f7e6.jpg",
     "index.html": "/personal-portfolio/index.html",
-    "main.6d4f0bc8.css.map": "/personal-portfolio/static/css/main.6d4f0bc8.css.map",
-    "main.1b79e320.js.map": "/personal-portfolio/static/js/main.1b79e320.js.map"
+    "main.9a14915b.css.map": "/personal-portfolio/static/css/main.9a14915b.css.map",
+    "main.0e75f27a.js.map": "/personal-portfolio/static/js/main.0e75f27a.js.map"
   },
   "entrypoints": [
-    "static/css/main.6d4f0bc8.css",
-    "static/js/main.1b79e320.js"
+    "static/css/main.9a14915b.css",
+    "static/js/main.0e75f27a.js"
   ]
 }
