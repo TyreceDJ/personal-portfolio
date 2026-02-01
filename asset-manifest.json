@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/personal-portfolio/static/css/main.9a14915b.css",
-    "main.js": "/personal-portfolio/static/js/main.0e75f27a.js",
+    "main.js": "/personal-portfolio/static/js/main.fe8a26b7.js",
     "static/media/unversity-village.jpg": "/personal-portfolio/static/media/unversity-village.6835751d246d9177af75.jpg",
     "static/media/Tyrece.jpg": "/personal-portfolio/static/media/Tyrece.7d99059067d8f9bf0a79.jpg",
     "static/media/thanks-giving.jpg": "/personal-portfolio/static/media/thanks-giving.8761f7baf5657d563bb1.jpg",
@@ -14,10 +14,10 @@
     "static/media/tumi-collage.jpg": "/personal-portfolio/static/media/tumi-collage.576d3018465e77d7f7e6.jpg",
     "index.html": "/personal-portfolio/index.html",
     "main.9a14915b.css.map": "/personal-portfolio/static/css/main.9a14915b.css.map",
-    "main.0e75f27a.js.map": "/personal-portfolio/static/js/main.0e75f27a.js.map"
+    "main.fe8a26b7.js.map": "/personal-portfolio/static/js/main.fe8a26b7.js.map"
   },
   "entrypoints": [
     "static/css/main.9a14915b.css",
-    "static/js/main.0e75f27a.js"
+    "static/js/main.fe8a26b7.js"
   ]
 }
